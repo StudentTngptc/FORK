@@ -18,7 +18,5 @@
  <input type="password" name="pwd"><br>
  <input type="submit" value="Login">
  </form>
-<footer>
-</footer>
 </body>
 </html>
