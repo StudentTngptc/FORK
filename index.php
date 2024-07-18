@@ -12,7 +12,7 @@
 <hr>
 <article>
  <section>
- <h2>Login Details</h1>
+ <h2>Login Details</h2>
  <form action="login.php" method="POST">
  <label>User Name</label>
  <input type="text" name="usr"><br><br>
